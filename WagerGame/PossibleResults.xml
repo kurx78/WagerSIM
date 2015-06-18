@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResultsCollection>
+  <Results>
+    <Result>
+      <name>Everton</name>
+      <value>35,71</value>
+    </Result>
+    <Result>
+      <name>Arsenal</name>
+      <value>40</value>
+    </Result>
+    <Result>
+      <name>Draw</name>
+      <value>30,3</value>
+    </Result>
+  </Results>
+</ResultsCollection>
